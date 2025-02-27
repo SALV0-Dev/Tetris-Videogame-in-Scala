@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tetris.PlacementTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-10-09T21:10:29" hostname="DESKTOP-MB5T0MI" time="0.158">
+  <properties/>
+  <testcase name="testPlacementI" classname="tetris.PlacementTests" time="0.131"/>
+  <testcase name="testPlacementIEven" classname="tetris.PlacementTests" time="0.003"/>
+  <testcase name="testPlacementJ" classname="tetris.PlacementTests" time="0.002"/>
+  <testcase name="testPlacementL" classname="tetris.PlacementTests" time="0.003"/>
+  <testcase name="testPlacementO" classname="tetris.PlacementTests" time="0.002"/>
+  <testcase name="testPlacementOEven" classname="tetris.PlacementTests" time="0.002"/>
+  <testcase name="testPlacementS" classname="tetris.PlacementTests" time="0.003"/>
+  <testcase name="testPlacementT" classname="tetris.PlacementTests" time="0.003"/>
+  <testcase name="testPlacementZ" classname="tetris.PlacementTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

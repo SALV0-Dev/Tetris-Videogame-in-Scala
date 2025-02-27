@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tetris.MovementTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-09T12:04:27" hostname="DESKTOP-MB5T0MI" time="0.074">
+  <properties/>
+  <testcase name="testMovement" classname="tetris.MovementTests" time="0.046"/>
+  <testcase name="testMovement2" classname="tetris.MovementTests" time="0.026"/>
+  <system-out><![CDATA[You got 20/22 points!
+You pass assignment 3.1!]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
